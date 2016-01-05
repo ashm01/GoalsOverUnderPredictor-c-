@@ -1,0 +1,9 @@
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\bin\Debug\GoalsOverUnderPredictor.exe.config
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.csprojResolveAssemblyReference.cache
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.Form1.resources
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.Properties.Resources.resources
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.csproj.GenerateResource.Cache
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\bin\Debug\GoalsOverUnderPredictor.exe
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\bin\Debug\GoalsOverUnderPredictor.pdb
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.exe
+C:\Users\moora\onedrive\documents\visual studio 2015\Projects\GoalsOverUnderPredictor\GoalsOverUnderPredictor\obj\Debug\GoalsOverUnderPredictor.pdb
